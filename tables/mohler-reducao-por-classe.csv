@@ -1,0 +1,542 @@
+DS-CC UNT 6,1 & 2 & & 26 & 337 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2074 & 0,003 & 1 & 0 \\
+4 & 0,4022 & 0,0045 & 1 & 0,1111 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+\hline \hline DS-CC UNT 3,7 & 3 & & 31 & 659 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3699 & 0,0019 & 1 & 0,08 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0,4074 & 0,0015 & 1 & 0 \\
+1 & 0,5 & 0,0015 & 1 & 0 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 1,3 & 407 & & 29 & 942 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2749 & 0,0311 & 22 & 0,273 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,2699 & 0,0012 & 1 & 0,2769 \\
+2 & 0,9007 & 0,8386 & 395 & 0,25 \\
+\hline \hline DS-CC UNT 8,6 & 38 & & 27 & 608 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2279 & 0,0018 & 1 & 0,5252 \\
+4 & 0,5618 & 0,1316 & 40 & 0,5 \\
+3 & 0,4074 & 0,0016 & 1 & 0,5556 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 9,4 & 285 & & 27 & 902 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2462 & 0,0938 & 54 & 0,2295 \\
+4 & 0,5 & 0,0011 & 1 & 0,5 \\
+3 & 0,3876 & 0,1314 & 71 & 0,3333 \\
+2 & 0,5625 & 0,7005 & 192 & 0,5 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 & 0,5422 & 0,0011 & 1 & 0,5426 \\
+\hline \hline DS-CC UNT 4,3 & 71 & & 30 & 502 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3072 & 0,002 & 1 & 0,0481 \\
+4 & 0,2795 & 0,0025 & 1 & 0,2 \\
+3 & 0,3881 & 0,003 & 1 & 0,3333 \\
+1 & 0,5806 & 0,2709 & 68 & 0,25 \\
+\hline \hline DS-CC UNT 10,4 & 1 & & 24 & 291 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3402 & 0,0044 & 1 & 0,0494 \\
+4 & 0,4504 & 0 & 0 & 0 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 3,4 & 3 & & 31 & 556 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,1809 & 0,002 & 1 & 0,0165 \\
+4 & 0,2348 & 0,0018 & 1 & 0 \\
+3 & 0,2014 & 0,0019 & 1 & 0,0059 \\
+\hline \hline DS-CC UNT 12,3 & 22 & & 28 & 75 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,9176 & 0,1067 & 8 & 0,0625 \\
+8 & 0,8669 & 0,1867 & 7 & 0,25 \\
+6 & 0,9183 & 0,2133 & 8 & 0,25 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+2 & 0,6417 & 0,0267 & 2 & 0 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 3,6 & 185 & & 31 & 495 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4885 & 0,6056 & 185 & 0,1711 \\
+4 & 0,4914 & 0,002 & 1 & 0,3818 \\
+3 & 0,5445 & 0,002 & 1 & 0,5 \\
+2 & 0,5 & 0,004 & 1 & 0,5 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 2,5 & 54 & & 30 & 247 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,1517 & 0,004 & 1 & 0,065 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+1 & 0,5884 & 0,0081 & 1 & 0,6768 \\
+0 & 0,3147 & 0,2632 & 52 & 0,04 \\
+\hline \hline DS-CC UNT 10,2 & 3 & & 24 & 282 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,6155 & 0,0035 & 1 & 1 \\
+4 & 0,2484 & 0,004 & 1 & 0,0123 \\
+3 & 0,4161 & 0,0053 & 1 & 0,1111 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 1,7 & 7 & & 29 & 689 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2465 & 0,0097 & 6 & 0,02 \\
+4 & 0,5 & 0,0015 & 1 & 0,25 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 6,3 & 14 & & 26 & 174 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,6752 & 0,092 & 12 & 0,0625 \\
+4 & 0,2846 & 0,0057 & 1 & 0,0556 \\
+1 & 0,5 & 0,0115 & 1 & 0,5 \\
+\hline \hline DS-CC UNT 7,5 & 28 & & 26 & 474 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3484 & 0,0025 & 1 & 0,5184 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0,5446 & 0,1139 & 27 & 0,25 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 7,1 & 1 & & 26 & 528 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+4 & 0,1776 & 0,0022 & 1 & 0,0178 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 12,2 & 225 & & 28 & 602 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,1909 & 0,0017 & 1 & 0,2196 \\
+6 & 0,3701 & 0,0075 & 3 & 0,3653 \\
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,3161 & 0,0017 & 1 & 0,1875 \\
+0 & 1 & 0,3704 & 223 & 0 \\
+\hline \hline DS-CC UNT 3,5 & 3 & & 31 & 327 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3116 & 0,0033 & 1 & 0,0069 \\
+4 & 0,5 & 0,0031 & 1 & 0 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+1 & 0,5277 & 0,0031 & 1 & 0 \\
+\hline \hline DS-CC UNT 12,6 & 138 & & 28 & 614 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,2636 & 0,3281 & 139 & 0,1022 \\
+8 &  \multicolumn{4}{c}{1 Item de Classe 8,0} \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+0 & 0,8 & 0,0016 & 1 & 0,5 \\
+\hline \hline DS-CC UNT 9,5 & 32 & & 27 & 526 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2301 & 0,0021 & 1 & 0,0473 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,5875 & 0,0019 & 1 & 0,25 \\
+2 & 0,5766 & 0,1141 & 30 & 0,25 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 11,8 & 121 & & 30 & 734 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3842 & 0,0018 & 1 & 0,25 \\
+9 &  \multicolumn{4}{c}{1 Item de Classe 9,0} \\
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+3 & 0,3507 & 0,0777 & 38 & 0,3333 \\
+0 & 0,2578 & 0,1848 & 90 & 0,2039 \\
+\hline \hline DS-CC UNT 2,6 & 288 & & 30 & 843 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2858 & 0,0153 & 10 & 0,1988 \\
+4 & 0,4528 & 0,3081 & 140 & 0,3533 \\
+3 & 0,2882 & 0,0012 & 1 & 0,2433 \\
+1 & 0,61 & 0,5914 & 180 & 0,5 \\
+\hline \hline DS-CC UNT 7,6 & 2 & & 26 & 397 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+4 & 0,3754 & 0,0025 & 1 & 0,0625 \\
+3 & 0,2321 & 0,0029 & 1 & 0,0204 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 8,4 & 3 & & 27 & 718 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2582 & 0,0016 & 1 & 0,0313 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,5 & 0,0014 & 1 & 0 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 & 0,3648 & 0,0014 & 1 & 0 \\
+\hline \hline DS-CC UNT 6,5 & 3 & & 26 & 176 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,5229 & 0,0057 & 1 & 0 \\
+4 & 0,223 & 0,0065 & 1 & 0,0313 \\
+3 & 0,4259 & 0,0057 & 1 & 0 \\
+\hline \hline DS-CC UNT 12,5 & 1 & & 28 & 547 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,1529 & 0,0019 & 1 & 0,0030864198 \\
+9 &  \multicolumn{4}{c}{1 Item de Classe 9,0} \\
+\hline \hline DS-CC UNT 4,7 & 2 & & 30 & 156 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4835 & 0,0513 & 1 & 0,7623 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 & 0,2728 & 0,0128 & 1 & 0,2134 \\
+\hline \hline DS-CC UNT 10,7 & 3 & & 24 & 146 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3063 & 0,0068 & 1 & 0,0069 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0 & 0,0068 & 1 & 0 \\
+0 & 0,2297 & 0,0086 & 1 & 0,04 \\
+\hline \hline DS-CC UNT 2,7 & 4 & & 30 & 536 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3569 & 0,0019 & 1 & 0 \\
+4 & 0,3662 & 0,0019 & 1 & 0,1111 \\
+3 & 0,1817 & 0,0021 & 1 & 0,0123 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+0 & 0,2222 & 0,0019 & 1 & 0 \\
+\hline \hline DS-CC UNT 2,4 & 2 & & 30 & 197 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2138 & 0,006 & 1 & 0,0296 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0,5 & 0,0102 & 1 & 0,25 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 7,2 & 2 & & 26 & 488 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,207 & 0,002 & 1 & 0 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,5083 & 0,002 & 1 & 0,25 \\
+\hline \hline DS-CC UNT 9,1 & 2 & & 27 & 538 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2099 & 0,002 & 1 & 0,0069 \\
+4 & 0,5698 & 0,0037 & 1 & 0,25 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+\hline \hline DS-CC UNT 11,1 & 1 & & 30 & 814 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,1874 & 0,0013 & 1 & 0,0039 \\
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+\hline \hline DS-CC UNT 5,3 & 147 & & 28 & 428 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3796 & 0,0023 & 1 & 0,2774 \\
+4 & 0,5172 & 0,0023 & 1 & 0,5 \\
+3 & 0 & 0,3364 & 144 & 0 \\
+2 & 0,3905 & 0,0023 & 1 & 0,356 \\
+\hline \hline DS-CC UNT 2,2 & 94 & & 30 & 695 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3349 & 0,0017 & 1 & 0,3355 \\
+4 & 0,3862 & 0,0014 & 1 & 0,3981 \\
+3 & 0,3323 & 0,0018 & 1 & 0,382 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+1 & 0,539 & 0,0547 & 19 & 0,5 \\
+0 & 0,6591 & 0,2129 & 74 & 0,6581 \\
+\hline \hline DS-CC UNT 12,4 & 28 & & 28 & 898 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,231 & 0,0344 & 27 & 0,0156 \\
+8 &  \multicolumn{4}{c}{1 Item de Classe 8,0} \\
+2 & 0,1856 & 0,0011 & 1 & 0,1308 \\
+\hline \hline DS-CC UNT 8,3 & 251 & & 27 & 639 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4002 & 0,815 & 247 & 0,2823 \\
+4 & 0,5557 & 0,0016 & 1 & 0,5 \\
+3 & 0,5167 & 0,0016 & 1 & 0,5 \\
+2 & 0,5288 & 0,0188 & 6 & 0,5 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 1,2 & 3 & & 29 & 490 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,5333 & 0,002 & 1 & 0 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,2566 & 0,002 & 1 & 0 \\
+2 & 0,5556 & 0,002 & 1 & 0 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 8,1 & 3 & & 27 & 475 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,1891 & 0,0022 & 1 & 0,0185 \\
+4 & 0,5497 & 0,0021 & 1 & 0 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 & 0,5417 & 0,0021 & 1 & 0 \\
+\hline \hline DS-CC UNT 7,3 & 6 & & 26 & 642 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2416 & 0,0018 & 1 & 0,0781 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,5431 & 0,0093 & 4 & 0,1111 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+1 & 0,3523 & 0,0016 & 1 & 0 \\
+\hline \hline DS-CC UNT 10,6 & 4 & & 24 & 503 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2375 & 0,002 & 1 & 0,0123 \\
+4 & 0,5 & 0 & 0 & 0,25 \\
+3 & 0,5 & 0,002 & 1 & 0 \\
+2 & 0,7339 & 0,004 & 1 & 0,25 \\
+0 & 0,356 & 0,002 & 1 & 0 \\
+\hline \hline DS-CC UNT 4,4 & 8 & & 30 & 707 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2972 & 0,0017 & 1 & 0,0612 \\
+4 & 0,4741 & 0,0196 & 6 & 0,4444 \\
+3 & 0,5589 & 0,0014 & 1 & 0,25 \\
+1 & 0,3134 & 0,0018 & 1 & 0,04 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 9,3 & 24 & & 27 & 775 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2537 & 0 & 0 & 0,494 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0,4276 & 0,055 & 23 & 0,2222 \\
+1 & 0,5959 & 0,0013 & 1 & 0,7041 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 5,1 & 40 & & 28 & 637 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2287 & 0,0718 & 37 & 0,054 \\
+4 & 0,2663 & 0,002 & 1 & 0,08 \\
+3 & 0,351 & 0,0016 & 1 & 0,2222 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+1 & 0,3708 & 0,0016 & 1 & 0,3333 \\
+\hline \hline DS-CC UNT 7,4 & 4 & & 26 & 220 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3008 & 0,0053 & 1 & 0,0204 \\
+4 & 0,5861 & 0,0091 & 1 & 0,25 \\
+3 & 0,5 & 0,0091 & 1 & 0,5 \\
+2 & 0,5 & 0,0045 & 1 & 0 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 6,2 & 2 & & 26 & 138 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3518 & 0,0081 & 1 & 0,1 \\
+4 & 0,3267 & 0,0072 & 1 & 0 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+\hline \hline DS-CC UNT 10,3 & 3 & & 24 & 107 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4702 & 0,0093 & 1 & 0,0051 \\
+4 & 0,5 & 0,0187 & 1 & 0,25 \\
+3 & 0,7696 & 0,0093 & 1 & 0 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 11,1 & 2 & & 30 & 340 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3058 & 0,0029 & 1 & 0 \\
+7 &  \multicolumn{4}{c}{1 Item de Classe 7,0} \\
+6 &  \multicolumn{4}{c}{1 Item de Classe 6,0} \\
+3 & 0,4768 & 0,0044 & 1 & 0,1111 \\
+\hline \hline DS-CC UNT 10,1 & 3 & & 24 & 527 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4415 & 0,0019 & 1 & 0 \\
+4 & 0,3607 & 0,0028 & 1 & 0,1111 \\
+3 & 0,2948 & 0,0025 & 1 & 0,125 \\
+2 & 0,3961 & 0 & 0 & 0 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 7,7 & 138 & & 26 & 407 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,1624 & 0,0027 & 1 & 0,1249 \\
+4 & 0,7588 & 0,6732 & 137 & 0,25 \\
+3 & 0,5 & 0,0025 & 1 & 0,5 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 6,4 & 2 & & 26 & 331 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,1611 & 0,003 & 1 & 0,0059 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0,294 & 0,003 & 1 & 0 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 11,2 & 18 & & 30 & 169 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3857 & 0,127 & 17 & 0,06 \\
+8 &  \multicolumn{4}{c}{1 Item de Classe 8,0} \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+0 & 0,5 & 0,0118 & 1 & 0,5 \\
+\hline \hline DS-CC UNT 6,6 & 30 & & 26 & 255 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4432 & 0,0049 & 1 & 0,4055 \\
+2 & 0,4375 & 0,13 & 29 & 0,0156 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 4,2 & 474 & & 30 & 899 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,5335 & 0,7248 & 277 & 0,4435 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,4421 & 0,0017 & 1 & 0,3531 \\
+2 & 0,4502 & 0,6452 & 270 & 0,3445 \\
+1 & 0,5506 & 0 & 0 & 0,5 \\
+0 & 0,559 & 0,1201 & 54 & 0,5 \\
+\hline \hline DS-CC UNT 12,7 & 47 & & 28 & 200 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3958 & 0,0974 & 14 & 0,1332 \\
+9 & 0,6081 & 0,34 & 34 & 0,25 \\
+8 &  \multicolumn{4}{c}{1 Item de Classe 8,0} \\
+\hline \hline DS-CC UNT 11,5 & 1 & & 30 & 538 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,2887 & 0,002 & 1 & 0,0051 \\
+8 &  \multicolumn{4}{c}{1 Item de Classe 8,0} \\
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 3,3 & 4 & & 31 & 475 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2844 & 0,0023 & 1 & 0,26 \\
+4 & 0,371 & 0,0021 & 1 & 0 \\
+2 & 0,4536 & 0,0028 & 1 & 0,0625 \\
+0 & 0,5 & 0,0021 & 1 & 0 \\
+\hline \hline DS-CC UNT 3,1 & 26 & & 31 & 245 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4291 & 0,1376 & 26 & 0,0556 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+1 & 0,4009 & 0 & 0 & 0,8194 \\
+\hline \hline DS-CC UNT 12,8 & 176 & & 28 & 667 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3931 & 0,4601 & 175 & 0,25 \\
+9 &  \multicolumn{4}{c}{1 Item de Classe 9,0} \\
+8 &  \multicolumn{4}{c}{1 Item de Classe 8,0} \\
+5 & 0,3766 & 0,0015 & 1 & 0,4651 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+0 & 0,2322 & 0,0015 & 1 & 0,12 \\
+\hline \hline DS-CC UNT 11,7 & 102 & & 30 & 672 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3129 & 0,0019 & 1 & 0,2555 \\
+7 &  \multicolumn{4}{c}{1 Item de Classe 7,0} \\
+6 &  \multicolumn{4}{c}{1 Item de Classe 6,0} \\
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+4 & 0,4005 & 0,006 & 3 & 0,3917 \\
+2 & 0,5945 & 0,2946 & 99 & 0,25 \\
+1 & 0,5158 & 0,0022 & 1 & 0,3333 \\
+\hline \hline DS-CC UNT 2,3 & 7 & & 30 & 704 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+4 & 0,2715 & 0,0036 & 2 & 0,08 \\
+3 & 0,4462 & 0,0014 & 1 & 0,04 \\
+2 & 0,2904 & 0,0076 & 4 & 0,0625 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 5,2 & 5 & & 28 & 618 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,16 & 0,0017 & 1 & 0,0994 \\
+4 & 0,5 & 0,0129 & 4 & 0,25 \\
+\hline \hline DS-CC UNT 11,9 & 238 & & 30 & 770 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,5846 & 0,7735 & 228 & 0,5 \\
+8 & 0,2183 & 0,0072 & 4 & 0,2398 \\
+6 & 0,5579 & 0,0182 & 7 & 0,5435 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+2 & 0,5 & 0,0013 & 1 & 0,5 \\
+\hline \hline DS-CC UNT 12,1 & 154 & & 28 & 319 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3795 & 0,0042 & 1 & 0,4269 \\
+9 & 1 & 0,2602 & 83 & 0 \\
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+0 & 0,1723 & 0,3651 & 91 & 0,1619 \\
+\hline \hline DS-CC UNT 12,9 & 617 & & 28 & 977 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,4437 & 0,0937 & 61 & 0,4556 \\
+9 &  \multicolumn{4}{c}{1 Item de Classe 9,0} \\
+8 & 0,6581 & 1,4234 & 427 & 0,5157 \\
+7 & 0,4239 & 0,0875 & 57 & 0,3795 \\
+6 & 0,469 & 0,6309 & 282 & 0,3403 \\
+5 &  \multicolumn{4}{c}{1 Item de Classe 5,0} \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+0 & 0,376 & 0,001 & 1 & 0,2942 \\
+\hline \hline DS-CC UNT 1,5 & 4 & & 29 & 395 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3082 & 0,0038 & 1 & 0,1389 \\
+4 & 0,3758 & 0,0038 & 1 & 0,1111 \\
+3 & 0,5 & 0,0025 & 1 & 0,25 \\
+2 & 0,543 & 0,0025 & 1 & 0 \\
+\hline \hline DS-CC UNT 11,3 & 5 & & 30 & 494 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,3443 & 0,002 & 1 & 0,04 \\
+6 & 0,5 & 0,002 & 1 & 0,25 \\
+4 & 0,5 & 0,002 & 1 & 0 \\
+2 & 0,3029 & 0,002 & 1 & 0 \\
+0 & 0,3525 & 0,002 & 1 & 0,1111 \\
+\hline \hline DS-CC UNT 2,1 & 2 & & 30 & 384 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2664 & 0 & 0 & 0 \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+3 & 0,5 & 0,0026 & 1 & 0 \\
+1 & 0,5344 & 0,0026 & 1 & 0 \\
+\hline \hline DS-CC UNT 8,7 & 156 & & 27 & 685 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4536 & 0,3829 & 139 & 0,3439 \\
+4 & 0,5 & 0,0467 & 16 & 0,5 \\
+3 & 0,376 & 0,0015 & 1 & 0,3354 \\
+2 & 0,2331 & 0,0015 & 1 & 0,24 \\
+1 & 0,5 & 0,0015 & 1 & 0,5 \\
+0 & 0,5 & 0,0015 & 1 & 0,5 \\
+\hline \hline DS-CC UNT 1,6 & 154 & & 29 & 449 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,7788 & 0,6815 & 153 & 0,25 \\
+4 & 0,2796 & 0,003 & 1 & 0,2917 \\
+3 & 0,4432 & 0,0022 & 1 & 0,5351 \\
+2 & 0,2439 & 0,0022 & 1 & 0,2208 \\
+1 & 0,3476 & 0,0033 & 1 & 0,3333 \\
+\hline \hline DS-CC UNT 8,5 & 8 & & 27 & 560 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2235 & 0,002 & 1 & 0,0496 \\
+3 & 0,5166 & 0,0214 & 6 & 0,25 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+1 & 0,3948 & 0,0018 & 1 & 0,1111 \\
+\hline \hline DS-CC UNT 12,1 & 1 & & 28 & 289 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,2272 & 0,0037 & 1 & 0,0044 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\
+\hline \hline DS-CC UNT 3,2 & 11 & & 31 & 281 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3717 & 0,0036 & 1 & 0,122 \\
+4 & 0,2131 & 0,0036 & 1 & 0,08 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+1 & 0,7107 & 0,0569 & 8 & 0,25 \\
+0 & 0,5225 & 0,0071 & 1 & 0,5 \\
+\hline \hline DS-CC UNT 4,1 & 4 & 30 & 619 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2133 & 0,0018 & 1 & 0,02 \\
+4 & 0,3141 & 0,0016 & 1 & 0 \\
+3 & 0,3209 & 0,0016 & 1 & 0 \\
+2 & 0,2566 & 0,0016 & 1 & 0 \\
+\hline \hline DS-CC UNT 1,1 & 101 & & 29 & 701 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4806 & 0,0014 & 1 & 0,6808 \\
+4 & 0,312 & 0,0014 & 1 & 0,25 \\
+3 & 0,5118 & 0,2853 & 100 & 0,25 \\
+2 & 0,2665 & 0,0019 & 1 & 0,1875 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 4,5 & 92 & & 30 & 350 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,5833 & 0,3814 & 89 & 0,1111 \\
+4 & 0,4367 & 0,0029 & 1 & 0,3333 \\
+2 & 0,125 & 0,0029 & 1 & 0,125 \\
+1 & 0,3333 & 0,0029 & 1 & 0,2222 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 10,5 & 253 & & 24 & 648 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3199 & 0,5319 & 221 & 0,1511 \\
+4 & 0,6089 & 0,0015 & 1 & 0,5 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0,5584 & 0,0015 & 1 & 0,5 \\
+1 & 0,6195 & 0,1204 & 39 & 0,5 \\
+\hline \hline DS-CC UNT 5,4 & 4 & & 28 & 226 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline 
+5 & 0,2299 & 0,0054 & 1 & 0,0496 \\
+4 & 0,5 & 0,0044 & 1 & 0 \\
+3 &  \multicolumn{4}{c}{1 Item de Classe 3,0} \\
+2 & 0,5 & 0,0044 & 1 & 0 \\
+1 & 0,3934 & 0,0044 & 1 & 0 \\
+\hline \hline DS-CC UNT 9.7 & 61 & & 27 & 280 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2285 & 0,2832 & 61 & 0,0608 \\
+1 &  \multicolumn{4}{c}{1 Item de Classe 1,0} \\
+\hline \hline DS-CC UNT 11.4 & 2 & & 30 & 375 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,2945 & 0,0029 & 1 & 0,0083 \\
+7 &  \multicolumn{4}{c}{1 Item de Classe 7,0} \\
+4 &  \multicolumn{4}{c}{1 Item de Classe 4,0} \\
+9 &  \multicolumn{4}{c}{1 Item de Classe 9,0} \\
+6 &  \multicolumn{4}{c}{1 Item de Classe 6,0} \\
+2 & 0,5373 & 0,0053 & 1 & 0,25 \\
+0 &  \multicolumn{4}{c}{1 Item de Classe 0,0} \\
+\hline \hline DS-CC UNT 9.6 & 4 & & 27 & 169 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,2794 & 0,0203 & 3 & 0,0153 \\
+0 & 0,5 & 0,0118 & 1 & 0,25 \\
+\hline \hline DS-CC UNT 11.6 & 1 & & 30 & 298 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+10 & 0,1425 & 0,0035 & 1 & 0,0028 \\
+\hline \hline DS-CC UNT 4.6 & 2 & & 30 & 107 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,6742 & 0,0093 & 1 & 0 \\
+0 & 0,5249 & 0,0117 & 1 & 0,08 \\
+\hline \hline DS-CC UNT 6.7 & 83 & & 26 & 283 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3232 & 0 & 0 & 0,2153 \\
+4 & 0,7 & 0,5866 & 83 & 0,25 \\
+\hline \hline DS-CC UNT 1.4 & 9 & & 29 & 69 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,4254 & 0,1341 & 8 & 0,02 \\
+0 & 0,5 & 0,029 & 1 & 0,25 \\
+\hline \hline DS-CC UNT 9.2 & 1 & & 27 & 131 \\
+Classe &  SI Inicial &  Coeficiente &  N. Caracteristicas  &  SI Final \\ \hline
+5 & 0,3095 & 0,0082 & 1 & 0,0051 \\
+2 &  \multicolumn{4}{c}{1 Item de Classe 2,0} \\

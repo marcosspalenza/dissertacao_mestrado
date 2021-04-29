@@ -1,0 +1,18 @@
+%\pagestyle{empty}
+%\cleardoublepage
+%\pagestyle{fancy}
+%\pagenumbering{arabic}
+\chapter{Conclusões e Trabalhos Futuros}\label{conclusao}
+A avaliação estudantil vêm sendo estudada de perto pelas pesquisas em informática na educação. Hoje, buscamos compreender as necessidades dos alunos, acompanhar o desempenho nas avaliações, recomendar práticas de estudo e, como nesse trabalho, apoiar o processo de avaliação.
+
+A comparação inicial com o \textit{dataset} do Vestibular da UFES mostra que o sistema tem erro baixo para o humano ao qual se pretende imitar, quando comparado com a distância entre dois humanos que deveriam manter certa coerência avaliativa para uma mesma atividade. Pela avaliação de um dos avaliadores vemos que a ferramenta é tão eficiente quanto os especialistas ao atribuir notas tendo como base o erro resultante nas notas contínuas.
+
+Com precisão média acima de 90\% nas bases de dados de disciplinas da UFES e \textit{Texas Dataset}, podemos então dizer que o sistema reconhece adequadamente o modelo avaliativo. Esses resultados portanto, tornam-o um avaliador em potencial. Deste modo, podemos afirmar que, na avaliação por classes com bons resultados obtidos de \textit{precision} e \textit{recall}, o uso dessa ferramenta de avaliação semiautomática é capaz de apoiar de forma equivalente aos especialistas no processo avaliativo.
+
+Além da eficiência na modelagem avaliativa, ao apresentar criteriosamente sua metodologia através do mapa de características, o \textit{software} pode ser controlado de perto pelo especialista. Partindo da avaliação dada pelo próprio humano, a identificação de modelos de correção, o mantém no controle do processo principalmente com o mapa de características para validação após o \textit{feedback}. Dessa forma o mapa, como resultado do processo, torna-se mais um importante instrumento para a discussão de resultados e a correção colaborativa.
+
+Como trabalhos futuros, esperamos aprimorar a seleção de características conforme a distribuição analisada na etapa de \textit{clustering}. Remontando os agrupamentos da etapa inicial podemos identificar pares distintos de resposta dentro de cada classe. Com análises mais complexas desses documentos, estabelecemos critérios mais próximos do professor através dos termos que descrevem melhor cada conteúdo.
+
+Segundo a distribuição, uma melhoria em potencial dados os experimentos é a adição de funções de remoção de \textit{outliers}. Com a remoção desse tipo de documento espera-se tornar mais qualitativa a seleção dos termos ao aumentar a consistência das classes. Se os grupos são mais densos pela similaridade entre os documentos a seleção tende a evitar elementos de baixa correlação representando a nota com os termos mais correlacionados.
+
+São importantes também, para incentivar o uso do sistema com especialistas (independentemente da área), a construção de relatórios que se aproximem com seus critérios de correção. Um passo que deverá ser incorporado para garantir isso seria a criação do quadro de \textit{rubrics} \cite{arter2006}. Portanto, com relatórios objetivos, representamos melhor o conhecimento abordado na tarefa e nos aproximamos da metodologia do professor.
